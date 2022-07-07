@@ -1,0 +1,16 @@
+嗨又菘 我來問一下作業 你會在
+
+        // for (auto c : candidate)
+        //     cout << c << " ";
+        // cout << endl;
+        // for (auto c : diff)
+        //     cout << c << " ";
+        // cout << endl;
+
+
+// del
+
+
+uncessary
+1. n_pins
+2. F, T, g...
